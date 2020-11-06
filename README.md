@@ -1,10 +1,11 @@
 # Capstone_2020-2021
 
 Capstone project for SE4G06.
-Members:
-othman mullick
-rohan thakral
-cassandra nicolak
-hahd khan
-jordan levy
-rohit saily
+
+## Members
+- Othman Mullick  
+- Rohan Thakral  
+- Cassandra Nicolak  
+- Hahd Khan  
+- Jordan Levy  
+- Rohit Saily  
